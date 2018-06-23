@@ -15,7 +15,7 @@ DEFAULT CREDINTIALS : -
 
 Default Admin Login :
 Email : admin
-Passowrd : admin
+Password : admin
 
 Default Demo User :
 Email :	asifakramsk@gmail.com
