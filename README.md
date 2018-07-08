@@ -12,10 +12,14 @@ INSTALLATION GUIDE : -
 4. Click Install
 
 DEFAULT CREDINTIALS : -
+
 Demo Url : http://classified.ditinex.online
+
 Default Admin Login :
+
 Email : admin
 Password : admin
+
 
 Default Demo User :
 Email :	asifakramsk@gmail.com
