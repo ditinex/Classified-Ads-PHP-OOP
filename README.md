@@ -13,7 +13,8 @@ INSTALLATION GUIDE : -
 
 DEFAULT CREDINTIALS : -
 
-Demo Url : http://classified.ditinex.online
+Demo Url : http://classifiedads-ditinex.c9users.io
+
 
 Default Admin Login :
 
